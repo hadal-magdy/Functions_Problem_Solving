@@ -1,0 +1,9 @@
+resources:
+----------
+
+w3resources:
+https://www.w3resource.com/c-programming-exercises/function/index.php
+-----------------------------
+codeforwin:
+https://codeforwin.org/c-programming/functions-programming-exercises-and-solutions-in-c
+-----------------------------
